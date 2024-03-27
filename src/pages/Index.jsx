@@ -37,7 +37,7 @@ const Index = () => {
 
       <Box bg="gray.900" py={16}>
         <Container maxW="container.lg">
-          <Heading as="h2" size="xl" mb={8}>
+          <Heading as="h2" size="xl" mb={8} color="white">
             Key Features
           </Heading>
           <Flex wrap="wrap" justify="space-between">
@@ -68,7 +68,7 @@ const Index = () => {
 
       <Box bg="gray.700" py={16}>
         <Container maxW="container.lg">
-          <Heading as="h2" size="xl" mb={8}>
+          <Heading as="h2" size="xl" mb={8} color="white">
             What Our Users Say
           </Heading>
           <Flex wrap="wrap" justify="space-between">
