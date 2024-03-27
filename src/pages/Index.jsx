@@ -41,22 +41,22 @@ const Index = () => {
             Key Features
           </Heading>
           <Flex wrap="wrap" justify="space-between">
-            <Box flex={["1 1 100%", "1 1 30%"]} mb={8} color="white">
-              <Image src="https://images.unsplash.com/photo-1682695795255-b236b1f1267d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxkZXN0aW5hdGlvbiUyMGRpc2NvdmVyeXxlbnwwfHx8fDE3MTE1NzQ0MjZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Destination Discovery" mb={4} />
+            <Box flex={["1 1 100%", "1 1 30%"]} mb={8} color="white" height="400px" borderRadius="2xl">
+              <Image src="https://images.unsplash.com/photo-1682695795255-b236b1f1267d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxkZXN0aW5hdGlvbiUyMGRpc2NvdmVyeXxlbnwwfHx8fDE3MTE1NzQ0MjZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Destination Discovery" mb={4} borderRadius="2xl" />
               <Heading as="h3" size="lg" mb={2}>
                 Destination Discovery
               </Heading>
               <Text>Discover new and exciting destinations based on your preferences and interests.</Text>
             </Box>
-            <Box flex={["1 1 100%", "1 1 30%"]} mb={8} color="white">
-              <Image src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0cmlwJTIwcGxhbm5pbmd8ZW58MHx8fHwxNzExNTc0NDI2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Trip Planning" mb={4} />
+            <Box flex={["1 1 100%", "1 1 30%"]} mb={8} color="white" height="400px" borderRadius="2xl">
+              <Image src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0cmlwJTIwcGxhbm5pbmd8ZW58MHx8fHwxNzExNTc0NDI2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Trip Planning" mb={4} borderRadius="2xl" />
               <Heading as="h3" size="lg" mb={2}>
                 Trip Planning
               </Heading>
               <Text>Easily plan your trips with itinerary suggestions, booking options, and travel guides.</Text>
             </Box>
-            <Box flex={["1 1 100%", "1 1 30%"]} mb={8} color="white">
-              <Image src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBjb21tdW5pdHl8ZW58MHx8fHwxNzExNTc0NDI2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Travel Community" mb={4} />
+            <Box flex={["1 1 100%", "1 1 30%"]} mb={8} color="white" height="400px" borderRadius="2xl">
+              <Image src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBjb21tdW5pdHl8ZW58MHx8fHwxNzExNTc0NDI2fDA&ixlib=rb-4.0.3&q=80&w=1080" alt="Travel Community" mb={4} borderRadius="2xl" />
               <Heading as="h3" size="lg" mb={2}>
                 Travel Community
               </Heading>
